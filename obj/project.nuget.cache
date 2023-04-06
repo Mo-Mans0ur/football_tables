@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LYNyHujbTIEvuCFoiBU4ea0KQ+S5T7yvLk13qY1P9mRfykiXQYyCsMqHNuZl2Rk0aMbJeXnDJmfMnlfoL2mE1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moha1\\football_tables-1\\football_tables-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moha1\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
